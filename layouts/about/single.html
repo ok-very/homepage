@@ -6,17 +6,21 @@
     {{ partial "header.html" . }}
   <section>
 
-      {{ if eq .Type "posts" }}
+      {{ if eq .Type "about" }}
       <h2 itemprop="name headline">{{ .Title }}</h2>
-      <p class="meta">
-        <time itemprop="datePublished" datetime="{{ dateFormat "2006-01-02" .Date }}">{{ dateFormat "2006-01-02" .Date }}</time> &bull; 
-        {{ partial "tags.html" .}}
-        </p>
+      
       {{ end }}
 
       <span itemprop="articleBody">
       {{ .Content }}
       </span>
+
+      {{ if eq .Type "about" }}
+      <p class="meta">
+        <time itemprop="datePublished" datetime="{{ dateFormat "2006-01-02" .Date }}">{{ dateFormat " January 02, 2006" .Date }}</time>
+        {{ partial "tags.html" .}}
+      </p>
+      {{ end }}
        
 
     </section>

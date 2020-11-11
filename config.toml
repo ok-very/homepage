@@ -1,7 +1,7 @@
-baseURL = "https://lines-hugo-theme.netlify.app/"
+baseURL = "https://www.nealmoignard.com"
 languageCode = "en-us"
-title = "Lines - Minimalist Hugo theme"
-disableKinds = ["section", "categories"]
+title = "Neal Moignard"
+disableKinds = ["sections", "categories"]
 disqusShortname = ""
 pygmentsCodeFences = false
 pygmentsUseClasses = false
@@ -67,19 +67,22 @@ minify = true
 
 [menu]
   [[menu.main]]
-    identifier = "index"
-    name       = "Index"
+    identifier = "posts"
+    name       = "Work"
     url        = "/"
     weight     = -111
 
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "/about/"
+    url        = "/about"
     weight     = -20
 
   [[menu.main]]
-    identifier = "rss"
-    name       = "RSS"
-    url        = "/atom.xml"
-    weight     = -10
+    identifier = "extra"
+    name       = "extra"
+    url        = "/extra"
+    weight     = -20
+
+ 
+
