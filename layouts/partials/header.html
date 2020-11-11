@@ -1,4 +1,8 @@
   <header>
+    <h2>
+    {{ .Site.Title }}'s {{ dateFormat "2006" now }} Homepage
+    </h2>
+
     <nav>
       {{ $current := . }}
   <ul>{{ range .Site.Menus.main }}

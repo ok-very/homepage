@@ -17,7 +17,7 @@
 
       {{ if eq .Type "about" }}
       <p class="meta">
-        <time itemprop="datePublished" datetime="{{ dateFormat "2006-01-02" .Date }}">{{ dateFormat " January 02, 2006" .Date }}</time>
+        - <time itemprop="datePublished" datetime="{{ dateFormat "2006-01-02" .Date }}">{{ dateFormat " January 02, 2006" .Date }}</time>
         {{ partial "tags.html" .}}
       </p>
       {{ end }}

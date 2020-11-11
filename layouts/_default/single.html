@@ -4,6 +4,9 @@
 <body>
 <main>
     {{ partial "header.html" . }}
+
+    Neal Moignard's {{ dateFormat "2006" now }} Homepage
+
   <section>
 
       {{ if eq .Type "posts" }}

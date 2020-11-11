@@ -1,12 +1,12 @@
 ---
-title: "Diff"
-type: "about"
+title: "Bio"
 description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
-date: "2014-09-08"
-tags:
-- Lorem
-- Ipsum
+date: "2020-11-02"
 ---
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+Born: Adelaide, AUS, 1987.
+
+Neal Moignard is an artist and educator of European descent that was raised on Treaty 7 territory in Moh-kíns-tsis or Calgary, AB, where he currently resides. His art practice has revolved around the idea of creating objects, installations, videos, and interactive scenarios. His projects communicate personal experience through intuitive means, urging contemplation of all media and its various effects. 
+
+He holds degrees in Intermedia from Concordia University in Montreal, QC and a Masters of Arts from the University of Oregon. He has had the opportunity to share his creative work and writing in various national and international contexts for over ten years. 
 

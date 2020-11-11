@@ -21,6 +21,13 @@ body {
     //opacity: .25;
 }
 
+.posts h1, h2, h3, h4, h5, h6 {
+	font-family: 'Vollkorn', serif;
+}
+
+
+
+
 
 main {
 	max-width: 70ch;
@@ -87,9 +94,15 @@ ul, ol {
 	padding-left: 1.2rem; 
 }
 
-header li, footer li {
+header li {
     display: inline;
     text-transform: uppercase;
+}
+
+footer li {
+	font-family: Vollkorn, serif;
+	font-size: x-large;
+	display: inline;
 }
 
 header a, footer a {
